@@ -1,0 +1,15 @@
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.AssemblyInfoInputs.cache
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.AssemblyInfo.cs
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.csproj.CoreCompileInputs.cache
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.sourcelink.json
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/bin/Debug/net10.0/DungeonAdventure
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/bin/Debug/net10.0/DungeonAdventure.deps.json
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/bin/Debug/net10.0/DungeonAdventure.runtimeconfig.json
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/bin/Debug/net10.0/DungeonAdventure.dll
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/bin/Debug/net10.0/DungeonAdventure.pdb
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.dll
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/refint/DungeonAdventure.dll
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.pdb
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/DungeonAdventure.genruntimeconfig.cache
+/Users/divan/Vuz/Maga/Programming/Innopolis_Game_Programming_Tasks/CS/DZ6/obj/Debug/net10.0/ref/DungeonAdventure.dll
