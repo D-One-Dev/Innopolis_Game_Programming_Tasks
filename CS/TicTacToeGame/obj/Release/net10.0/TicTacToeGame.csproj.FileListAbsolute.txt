@@ -1,0 +1,15 @@
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/bin/Release/net10.0/TicTacToeGame
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/bin/Release/net10.0/TicTacToeGame.deps.json
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/bin/Release/net10.0/TicTacToeGame.runtimeconfig.json
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/bin/Release/net10.0/TicTacToeGame.dll
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/bin/Release/net10.0/TicTacToeGame.pdb
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.AssemblyInfoInputs.cache
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.AssemblyInfo.cs
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.csproj.CoreCompileInputs.cache
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.sourcelink.json
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.dll
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/refint/TicTacToeGame.dll
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.pdb
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/TicTacToeGame.genruntimeconfig.cache
+/mnt/fileDump/Vuz/Programming/CS/TicTacToeGame/obj/Release/net10.0/ref/TicTacToeGame.dll
